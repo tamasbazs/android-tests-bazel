@@ -1,1 +1,5 @@
-# android-tests-bazel
+# android-test repo
+
+Sample App
+Test commit asdf
+Updated submodule folder item
